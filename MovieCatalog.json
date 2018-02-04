@@ -1,0 +1,389 @@
+{
+    "nodes": [
+      {
+        "name": "Main",
+        "label": [1, 0, 100],
+        "position": [1000, 500],
+        "id": 1,
+        "show": "true",
+        "internalStructure": [2, 13, 14, 15, 16, 18, 20, 22, 23, 24, 25],
+        "showInternalStructure": "true"
+      },
+      {
+        "name": "MovieCatalog1",
+        "label": [1, 0.05, 100],
+        "position": [250, 250],
+        "id": 2,
+        "show": "true",
+        "internalStructure": [3, 4, 6, 8, 9, 10, 11],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MainView1",
+        "label": [1, 0.04, 100],
+        "position": [0, 0],
+        "id": 3,
+        "show": "false",
+        "internalStructure": [12],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MovieListView1",
+        "label": [1, 0.04, 100],
+        "position": [0, 0],
+        "id": 4,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }, 
+      
+      {
+        "name": "MovieItemView1",
+        "label": [1, 0.04, 100],
+        "position": [0, 0],
+        "id": 6,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MovieModel1",
+        "label": [1, 0.04, 100],
+        "position": [0, 0],
+        "id": 8,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }, 
+  
+      {
+        "name": "Vector",
+        "label": [1, 10, 100],
+        "position": [0, 0],
+        "id": 9,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "Movie1",
+        "label": [1, 43.8, 58.6],
+        "position": [0, 0],
+        "id": 10,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "Movie2",
+        "label": [0.9, 11.4, 89.2],
+        "position": [0, 0],
+        "id": 11,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MovieEditor1",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 12,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcMenuItemCtl1",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 13,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcTBButton1",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 14,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcExecutor1",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 15,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }, 
+      
+      {
+        "name": "WmvcMenuItemCtl2",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 16,
+        "show": "true",
+        "internalStructure": [17],
+        "showInternalStructure": "false"
+      },
+
+      {
+        "name": "WmvcExecutor2",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 17,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }, 
+  
+      {
+        "name": "WmvcMenuItemCtl3",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 18,
+        "show": "true",
+        "internalStructure": [19],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcExecutor3",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 19,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "WmvcMenuItemCtl4",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 20,
+        "show": "true",
+        "internalStructure": [21],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcExecutor4",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 21,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "WmvcMenuItemCtl5",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 22,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "WmvcExecutor5",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 23,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "WmvcTBButton2",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 24,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcMenuItemCtl6",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 25,
+        "show": "true",
+        "internalStructure": [26],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WmvcExecutor6",
+        "label": [1, 0.03, 100],
+        "position": [0, 0],
+        "id": 26,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+    ],
+  
+    "links": [
+      {
+        "source": 1,
+        "target": 2,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 13,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 14,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 16,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 18,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 20,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 22,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 24,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 25,
+        "type": ""
+      },
+      {
+        "source": 2,
+        "target": 2,
+        "type": "theApp"
+      },
+      {
+        "source": 2,
+        "target": 4,
+        "type": "listView"
+      },
+      {
+        "source": 2,
+        "target": 6,
+        "type": "itemView"
+      },
+      {
+        "source": 2,
+        "target": 8,
+        "type": "theModel"
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "type": "mainView"
+      },
+      {
+        "source": 3,
+        "target": 8,
+        "type": "myModel"
+      },
+      {
+        "source": 3,
+        "target": 12,
+        "type": "theMovieEditor"
+      },
+      {
+        "source": 4,
+        "target": 8,
+        "type": "myModel"
+      },
+      {
+        "source": 6,
+        "target": 8,
+        "type": "myModel"
+      },
+      {
+        "source": 8,
+        "target": 9,
+        "type": "theList"
+      },
+      {
+        "source": 9,
+        "target": 10,
+        "type": "theList[0]"
+      },
+      {
+        "source": 9,
+        "target": 11,
+        "type": "theList[1]"
+      },
+      {
+        "source": 12,
+        "target": 10,
+        "type": "movie, editedMovie"
+      },
+      {
+        "source": 12,
+        "target": 11,
+        "type": "movie, editedMovie"
+      },
+      {
+        "source": 13,
+        "target": 15,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 14,
+        "target": 15,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 16,
+        "target": 17,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 18,
+        "target": 19,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 20,
+        "target": 21,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 22,
+        "target": 23,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 24,
+        "target": 23,
+        "type": "wmvcExecutor"
+      },
+      {
+        "source": 25,
+        "target": 26,
+        "type": "wmvcExecutor"
+      }
+    ]
+  }
+  
