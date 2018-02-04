@@ -1,0 +1,2923 @@
+{
+    "nodes": [
+      {
+        "name": "Jext",
+        "label": [1, 0, 100],
+        "position": [1000, 500],
+        "id": 1,
+        "show": "true",
+        "internalStructure": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "showInternalStructure": "true"
+      },
+      {
+        "name": "JextLoader1",
+        "label": [1, 0, 100],
+        "position": [0, 0],
+        "id": 2,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextLoader2",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 3,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesReader",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 4,
+        "show": "true",
+        "internalStructure": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "Mode1",
+        "label": [1, 0.06, 100],
+        "position": [0, 0],
+        "id": 5,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ModeFilter1",
+        "label": [1, 0.06, 100],
+        "position": [0, 0],
+        "id": 6,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "DefaultInputHandler1",
+        "label": [1, 0.1, 100],
+        "position": [0, 0],
+        "id": 7,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PyActionsReader1",
+        "label": [1, 0.1, 0.2],
+        "position": [0, 0],
+        "id": 8,
+        "show": "true",
+        "internalStructure": [29, 30, 31],
+        "showInternalStructure": "false" 
+      },
+      {
+        "name": "HashMap1",
+        "label": [1, 0.1, 100],
+        "position": [0, 0],
+        "id": 9,
+        "show": "true",
+        "internalStructure": [32, 33],
+        "showInternalStructure": "false"   
+      },
+      
+      {
+        "name": "HashMap2",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 10,
+        "show": "true",
+        "internalStructure": [35, 36, 37, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+        "showInternalStructure": "false"   
+      }
+      ,
+      {
+        "name": "SplashScreen1",
+        "label": [1, 0.2, 12],
+        "position": [0, 0],
+        "id": 11,
+        "show": "true",
+        "internalStructure": [34],
+        "showInternalStructure": "false"   
+      },
+      {
+        "name": "ArrayList",
+        "label": [1, 0.4, 100],
+        "position": [0, 0],
+        "id": 12,
+        "show": "true",
+        "internalStructure": [58],
+        "showInternalStructure": "false"   
+      },
+      {
+        "name": "VersionCheck1",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 13,
+        "show": "true",
+        "internalStructure": [],
+        "showInternalStructure": "false"   
+      }
+
+
+ 
+
+      , 
+      {
+        "name": "XmlParser1",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 14,
+        "show": "false",
+        "internalStructure": [80],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser2",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 15,
+        "show": "false",
+        "internalStructure": [81],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser3",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 16,
+        "show": "false",
+        "internalStructure": [82],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser4",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 17,
+        "show": "false",
+        "internalStructure": [83],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser5",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 18,
+        "show": "false",
+        "internalStructure": [84],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser6",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 19,
+        "show": "false",
+        "internalStructure": [85],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser8",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 20,
+        "show": "false",
+        "internalStructure": [86],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser9",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 21,
+        "show": "false",
+        "internalStructure": [87],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser11",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 22,
+        "show": "false",
+        "internalStructure": [88],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser12",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 23,
+        "show": "false",
+        "internalStructure": [89],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser13",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 24,
+        "show": "false",
+        "internalStructure": [90],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser14",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 25,
+        "show": "false",
+        "internalStructure": [91],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser15",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 26,
+        "show": "false",
+        "internalStructure": [92],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser16",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 27,
+        "show": "false",
+        "internalStructure": [93],
+        "showInternalStructure": "false"   
+      }, 
+      {
+        "name": "XmlParser17",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 28,
+        "show": "false",
+        "internalStructure": [94],
+        "showInternalStructure": "false"   
+      },
+
+
+
+
+      {
+        "name": "XmlParser7",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 29,
+        "show": "false",
+        "internalStructure": [95],
+        "showInternalStructure": "false"  
+      },
+      {
+        "name": "XmlParser8",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 30,
+        "show": "false",
+        "internalStructure": [96],
+        "showInternalStructure": "false"  
+      },
+      {
+        "name": "XmlParser18",
+        "label": [1, 0.1, 0.2],
+        "position": [0, 0],
+        "id": 31,
+        "show": "false",
+        "internalStructure": [97],
+        "showInternalStructure": "false"  
+      }
+
+
+
+      ,
+      {
+        "name": "PythonAction1",
+        "label": [1, 0.1, 100],
+        "position": [0, 0],
+        "id": 32,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false" 
+      },
+      {
+        "name": "PythonEditAction1",
+        "label": [1, 0.1, 100],
+        "position": [0, 0],
+        "id": 33,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "JextProgressBar1",
+        "label": [1, 0.2, 12],
+        "position": [0, 0],
+        "id": 34,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "Print1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 35,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "RemoveWhitespace1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 36,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "BeginLine1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 37,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "OpenUrl1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 38,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "OneAutoIndent1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 39,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RightIndent1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 40,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "BoxComent1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 41,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "LeftIndent1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 42,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WordCount1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 43,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SimpleComment1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 44,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "CompleteWord1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 45,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JoinLines1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 46,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WingComment1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 47,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SimpleUnComment1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 48,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "CompleteWordAll1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 49,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JoinAllLines1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 50,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ToUpperCase1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 51,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SpacesToTabs1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 52,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "CreateTemplate1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 53,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EndLine1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 54,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ToLowerCase1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 55,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "TabsToSpaces1",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 56,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "OneClickActionsReader",
+        "label": [1, 0.2, 100],
+        "position": [0, 0],
+        "id": 57,
+        "show": "false",
+        "internalStructure": [98],
+        "showInternalStructure": "false"
+      }
+
+      ,
+      {
+        "name": "JextFrame1",
+        "label": [1, 0.4, 100],
+        "position": [0, 0],
+        "id": 58,
+        "show": "false",
+        "internalStructure": [59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79],
+        "showInternalStructure": "false"
+      }
+
+
+
+      ,
+      {
+        "name": "UIFSplitPane1",
+        "label": [1, 1.3, 100],
+        "position": [0, 0],
+        "id": 59,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "UIFSplitPane2",
+        "label": [1, 2.5, 100],
+        "position": [0, 0],
+        "id": 60,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "DefaultProjectManagement1",
+        "label": [1, 0.7, 100],
+        "position": [0, 0],
+        "id": 61,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SimpleInternalFrame1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 62,
+        "show": "false",
+        "internalStructure": [99],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SimpleInternalFrame2",
+        "label": [1, 1.3, 100],
+        "position": [0, 0],
+        "id": 63,
+        "show": "false",
+        "internalStructure": [100],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SimpleInternalFrame3",
+        "label": [1, 2.5, 100],
+        "position": [0, 0],
+        "id": 64,
+        "show": "false",
+        "internalStructure": [101],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "DefaultInputHandler2",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 65,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "Console1",
+        "label": [1, 2.4, 100],
+        "position": [0, 0],
+        "id": 66,
+        "show": "false",
+        "internalStructure": [102,103,104,105,106,107,108,109,110,111,112,113,114,115],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextToolBar1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 67,
+        "show": "false",
+        "internalStructure": [116],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextTextArea1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 68,
+        "show": "false",
+        "internalStructure": [117,118,119,120,121,122,123,124,125,126],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextTextArea2",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 69,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextEvent1",
+        "label": [1, 40.42, 100],
+        "position": [0, 0],
+        "id": 70,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextTabbedPane1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 71,
+        "show": "false",
+        "internalStructure": [127],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WorkSpaces1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 72,
+        "show": "false",
+        "internalStructure": [128,129,130,131,132,133],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "VirtualFolders1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 73,
+        "show": "false",
+        "internalStructure": [134,135,136,137,138,139,140,141,142,143,144,145],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XTree1",
+        "label": [1, 1.2, 100],
+        "position": [0, 0],
+        "id": 74,
+        "show": "false",
+        "internalStructure": [146,147,148,149,150,151,152,153,154],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XMenuReader",
+        "label": [1, 0.4, 100],
+        "position": [0, 0],
+        "id": 75,
+        "show": "false",
+        "internalStructure": [155],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XBarReader",
+        "label": [1, 0.4, 100],
+        "position": [0, 0],
+        "id": 76,
+        "show": "false",
+        "internalStructure": [156],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XInsertReader",
+        "label": [1, 0.4, 100],
+        "position": [0, 0],
+        "id": 77,
+        "show": "false",
+        "internalStructure": [157],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PluginHandler1",
+        "label": [1, 6.3, 100],
+        "position": [0, 0],
+        "id": 78,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ModeHandler1",
+        "label": [1, 6.4, 100],
+        "position": [0, 0],
+        "id": 79,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      
+      
+      
+      
+      ,
+      {
+        "name": "XPropertiesHandler1",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 80,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler2",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 81,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler3",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 82,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler4",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 83,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler5",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 84,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler6",
+        "label": [0,0, 0],
+        "position": [0, 0],
+        "id": 85,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler7",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 86,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler8",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 87,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler9",
+        "label": [1, 0, 0.2],
+        "position": [0, 0],
+        "id": 88,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler10",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 89,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler11",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 90,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler12",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 91,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler13",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 92,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler14",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 93,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XPropertiesHandler15",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 94,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PyActionsHandler1",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 95,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PyActionsHandler2",
+        "label": [0, 0, 0],
+        "position": [0, 0],
+        "id": 96,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PyActionsHandler3",
+        "label": [1, 0.1, 0.2],
+        "position": [0, 0],
+        "id": 97,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+
+      ,
+      {
+        "name": "XMLParser19",
+        "label": [1, 0.2, 0.4],
+        "position": [0, 0],
+        "id": 98,
+        "show": "false",
+        "internalStructure": [158],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "GradientPanel1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 99,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "GradientPanel2",
+        "label": [1, 1.25, 100],
+        "position": [0, 0],
+        "id": 100,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "GradientPanel3",
+        "label": [1, 2.5, 100],
+        "position": [0, 0],
+        "id": 101,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      } 
+      
+      
+      
+      ,
+      {
+        "name": "HistoryModel1",
+        "label": [1, 1.65, 100],
+        "position": [0, 0],
+        "id": 102,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ConsoleTextPane1",
+        "label": [1, 2.24, 100],
+        "position": [0, 0],
+        "id": 103,
+        "show": "false",
+        "internalStructure": [159],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ClearCommand1",
+        "label": [1, 2.34, 100],
+        "position": [0, 0],
+        "id": 104,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PythonCommand1",
+        "label": [1, 2.44, 100],
+        "position": [0, 0],
+        "id": 105,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ChangeDirCommand1",
+        "label": [1, 2.54, 100],
+        "position": [0, 0],
+        "id": 106,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ExitCommand1",
+        "label": [1, 2.64, 100],
+        "position": [0, 0],
+        "id": 107,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "FileCommand1",
+        "label": [1, 2.74, 100],
+        "position": [0, 0],
+        "id": 108,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "HomeCommand1",
+        "label": [1, 2.84, 100],
+        "position": [0, 0],
+        "id": 109,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "HttpCommand1",
+        "label": [1, 2.94, 100],
+        "position": [0, 0],
+        "id": 110,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "HelpCommand1",
+        "label": [1, 3, 100],
+        "position": [0, 0],
+        "id": 111,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ListCommand1",
+        "label": [1, 3, 100],
+        "position": [0, 0],
+        "id": 112,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PwdCommand1",
+        "label": [1, 3, 100],
+        "position": [0, 0],
+        "id": 113,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RunCommand1",
+        "label": [1, 3, 100],
+        "position": [0, 0],
+        "id": 114,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EvalCommand1",
+        "label": [1, 3, 100],
+        "position": [0, 0],
+        "id": 115,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextButton1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 116,
+        "show": "false",
+        "internalStructure": [160],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextTextAreaPopupMenu1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 117,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RE1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 118,
+        "show": "false",
+        "internalStructure": [161,162,163,164],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ZipExplorer1",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 119,
+        "show": "false",
+        "internalStructure": [165,166,167],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "TextAreaPainter1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 120,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "Gutter1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 121,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "DocumentHandler1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 122,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MutableCaretEvent1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 123,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "SyntaxDocument1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 124,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "CaretHandler1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 125,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "FocusHandler1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 126,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "PopupMenu1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 127,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XmlParser22",
+        "label": [1, 0.9, 1.1],
+        "position": [0, 0],
+        "id": 128,
+        "show": "false",
+        "internalStructure": [168],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "WorkspaceElement1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 129,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "JextHighlightButton3",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 130,
+        "show": "false",
+        "internalStructure": [170],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton4",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 131,
+        "show": "false",
+        "internalStructure": [171],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton5",
+        "label": [1, 1,100],
+        "position": [0, 0],
+        "id": 132,
+        "show": "false",
+        "internalStructure": [172],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WorkspacesSwitcher1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 133,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "XMLParser23",
+        "label": [1, 0.9, 0.6],
+        "position": [0, 0],
+        "id": 134,
+        "show": "false",
+        "internalStructure": [169],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "VirtualFolderNode1",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 135,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EnhancedMenuItem1",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 136,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EnhancedMenuItem2",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 137,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EnhancedMenuItem3",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 138,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EnhancedMenuItem4",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 139,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "EnhancedMenuItem5",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 140,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton6",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 141,
+        "show": "false",
+        "internalStructure": [173],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton7",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 142,
+        "show": "false",
+        "internalStructure": [174],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton8",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 143,
+        "show": "false",
+        "internalStructure": [175],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton9",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 144,
+        "show": "false",
+        "internalStructure": [176],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton10",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 145,
+        "show": "false",
+        "internalStructure": [177],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextCheckBox1",
+        "label": [1, 1.2, 100],
+        "position": [0, 0],
+        "id": 146,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextCheckBox2",
+        "label": [1, 1.4, 100],
+        "position": [0, 0],
+        "id": 147,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextCheckBox3",
+        "label": [1, 1.6, 100],
+        "position": [0, 0],
+        "id": 148,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XTreeNode1",
+        "label": [1, 4, 5],
+        "position": [0, 0],
+        "id": 149,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XTreeItem1",
+        "label": [1, 4, 5],
+        "position": [0, 0],
+        "id": 150,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XTreeObject1",
+        "label": [1, 4, 5],
+        "position": [0, 0],
+        "id": 151,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton11",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 152,
+        "show": "false",
+        "internalStructure": [178],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton12",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 153,
+        "show": "false",
+        "internalStructure": [179],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton13",
+        "label": [1, 1, 100],
+        "position": [0, 0],
+        "id": 154,
+        "show": "false",
+        "internalStructure": [180],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XMLParser20",
+        "label": [1, 0.7, 0.9],
+        "position": [0, 0],
+        "id": 155,
+        "show": "false",
+        "internalStructure": [181],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XMLParser21",
+        "label": [1, 0.8, 1],
+        "position": [0, 0],
+        "id": 156,
+        "show": "false",
+        "internalStructure": [182],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XMLParser24",
+        "label": [1, 0.8, 1],
+        "position": [0, 0],
+        "id": 157,
+        "show": "false",
+        "internalStructure": [183],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "OneClickActionsHandler1",
+        "label": [1, 0.5, 0.7],
+        "position": [0, 0],
+        "id": 158,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "ConsoleKeyAdapter1",
+        "label": [1, 2, 100],
+        "position": [0, 0],
+        "id": 159,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler14",
+        "label": [1, 5.3, 100],
+        "position": [0, 0],
+        "id": 160,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "RE2",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 161,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenRepeated1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 162,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenChar1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 163,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenOneOf1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 164,
+        "show": "false",
+        "internalStructure": [184,185,186,187,188,189,190],
+        "showInternalStructure": "false"
+      }
+
+
+
+      ,
+      {
+        "name": "AbstractDisposer1",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 165,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton1",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 166,
+        "show": "false",
+        "internalStructure": [191],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextHighlightButton2",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 167,
+        "show": "false",
+        "internalStructure": [192],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "WorkspacesHandler1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 168,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "VirtualFoldersHandler1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 169,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler3",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 170,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler4",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 171,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler5",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 172,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler6",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 173,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler7",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 174,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler8",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 175,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler9",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 176,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler10",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 177,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler11",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 178,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler12",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 179,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler13",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 180,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "XMenuHandler1",
+        "label": [1, 0.7, 100],
+        "position": [0, 0],
+        "id": 181,
+        "show": "false",
+        "internalStructure": [193],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XBarHandler1",
+        "label": [1, 0.8, 100],
+        "position": [0, 0],
+        "id": 182,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "XInsertHandler1",
+        "label": [1, 0.9, 100],
+        "position": [0, 0],
+        "id": 183,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+
+
+      ,
+      {
+        "name": "RETokenChar2",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 184,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+
+      },
+      {
+        "name": "RETokenRange1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 185,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+
+      }
+      ,
+      {
+        "name": "RETokenChar3",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 186,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+      ,
+      {
+        "name": "RETokenPOSIX1",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 187,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenPOSIX2",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 188,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenChar4",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 189,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "RETokenChar5",
+        "label": [1, 15.45, 100],
+        "position": [0, 0],
+        "id": 190,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+      ,
+      {
+        "name": "MouseHandler1",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 191,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "MouseHandler2",
+        "label": [1, 24, 100],
+        "position": [0, 0],
+        "id": 192,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+      ,
+      {
+        "name": "JextMenuBar1",
+        "label": [1, 0.7, 100],
+        "position": [0, 0],
+        "id": 193,
+        "show": "false",
+        "internalStructure": [194,195],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextMenu1",
+        "label": [1, 0.7, 100],
+        "position": [0, 0],
+        "id": 194,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      },
+      {
+        "name": "JextMenu1",
+        "label": [1, 0.7, 100],
+        "position": [0, 0],
+        "id": 195,
+        "show": "false",
+        "internalStructure": [],
+        "showInternalStructure": "false"
+      }
+
+
+
+    ],
+  
+    "links": [
+      {
+        "source": 1,
+        "target": 2,
+        "type": "jextLoader"
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "type": "jextLoader"
+      },
+      {
+        "source": 1,
+        "target": 4,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 5,
+        "type": "modes"
+      },
+      {
+        "source": 1,
+        "target": 6,
+        "type": "modesFilesFilters"
+      },
+      {
+        "source": 1,
+        "target": 7,
+        "type": "InputHandler1"
+      },
+      {
+        "source": 1,
+        "target": 8,
+        "type": ""
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "type": "pythonActionHash"
+      },
+      {
+        "source": 1,
+        "target": 10,
+        "type": "actionsHash"
+      },
+      {
+        "source": 1,
+        "target": 11,
+        "type": "splash"
+      },
+      {
+        "source": 1,
+        "target": 12,
+        "type": "instances"
+      },
+      {
+        "source": 1,
+        "target": 13,
+        "type": "check"
+      },
+      {
+        "source": 4,
+        "target": 14,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 15,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 16,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 17,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 18,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 19,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 20,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 21,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 22,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 23,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 24,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 25,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 26,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 27,
+        "type": ""
+      },
+      {
+        "source": 4,
+        "target": 28,
+        "type": ""
+      },
+      {
+        "source": 8,
+        "target": 29,
+        "type": ""
+      },
+      {
+        "source": 8,
+        "target": 30,
+        "type": ""
+      },
+      {
+        "source": 8,
+        "target": 31,
+        "type": ""
+      }
+      ,
+      {
+        "source": 9,
+        "target": 32,
+        "type": "pythonActionHash"
+      },
+      {
+        "source": 9,
+        "target": 33,
+        "type": "pythonActionHash"
+      },
+      {
+        "source": 11,
+        "target": 34,
+        "type": "progress"
+      },
+      {
+        "source": 10,
+        "target": 35,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 36,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 37,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 38,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 39,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 40,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 41,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 42,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 43,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 44,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 45,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 46,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 47,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 48,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 49,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 50,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 51,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 52,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 53,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 54,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 55,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 56,
+        "type": ""
+      },
+      {
+        "source": 10,
+        "target": 57,
+        "type": ""
+      },
+      {
+        "source": 12,
+        "target": 58,
+        "type": "instances[0]"
+      }
+      ,
+      {
+        "source": 14,
+        "target": 80,
+        "type": "handler"
+      },
+      {
+        "source": 15,
+        "target": 81,
+        "type": "handler"
+      },
+      {
+        "source": 16,
+        "target": 82,
+        "type": "handler"
+      },
+      {
+        "source": 17,
+        "target": 83,
+        "type": "handler"
+      },
+      {
+        "source": 18,
+        "target": 84,
+        "type": "handler"
+      },
+      {
+        "source": 19,
+        "target": 85,
+        "type": "handler"
+      },
+      {
+        "source": 20,
+        "target": 86,
+        "type": "handler"
+      },
+      {
+        "source": 21,
+        "target": 87,
+        "type": "handler"
+      },
+      {
+        "source": 22,
+        "target": 88,
+        "type": "handler"
+      },
+      {
+        "source": 23,
+        "target": 89,
+        "type": "handler"
+      },
+      {
+        "source": 24,
+        "target": 90,
+        "type": "handler"
+      },
+      {
+        "source": 25,
+        "target": 91,
+        "type": "handler"
+      },
+      {
+        "source": 26,
+        "target": 92,
+        "type": "handler"
+      },
+      {
+        "source": 27,
+        "target": 93,
+        "type": "handler"
+      },
+      {
+        "source": 28,
+        "target": 94,
+        "type": "handler"
+      },
+      {
+        "source": 29,
+        "target": 95,
+        "type": "handler"
+      },
+      {
+        "source": 30,
+        "target": 96,
+        "type": "handler"
+      },
+      {
+        "source": 31,
+        "target": 97,
+        "type": "handler"
+      },
+      {
+        "source": 58,
+        "target": 59,
+        "type": "split"
+      }
+      ,
+      {
+        "source": 58,
+        "target": 60,
+        "type": "splitter"
+      },
+      {
+        "source": 58,
+        "target": 61,
+        "type": "defaultProjectMgmt, ProjectMgmts"
+      },
+      {
+        "source": 61,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 62,
+        "type": "rightFrame"
+      },
+      {
+        "source": 58,
+        "target": 63,
+        "type": "leftFrame"
+      },
+      {
+        "source": 58,
+        "target": 64,
+        "type": "consoleFrame"
+      },
+      {
+        "source": 58,
+        "target": 65,
+        "type": "inputHandler"
+      },
+      {
+        "source": 58,
+        "target": 66,
+        "type": "console"
+      },
+      {
+        "source": 66,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 67,
+        "type": "toolBar"
+      },
+      {
+        "source": 58,
+        "target": 68,
+        "type": "splittedTextArea"
+      },
+      {
+        "source": 68,
+        "target": 58,
+        "type": "view, parent"
+      },
+      {
+        "source": 58,
+        "target": 69,
+        "type": "splittedTextArea"
+      },
+      {
+        "source": 69,
+        "target": 58,
+        "type": "view, parent"
+      },
+      {
+        "source": 58,
+        "target": 70,
+        "type": ""
+      },
+      {
+        "source": 70,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 71,
+        "type": "textAreaPane"
+      },
+      {
+        "source": 71,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 72,
+        "type": "workspaces"
+      },
+      {
+        "source": 72,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 73,
+        "type": "virtualFolders, jextListeners"
+      },
+      {
+        "source": 73,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 58,
+        "target": 74,
+        "type": "jextListeners"
+      },
+      {
+        "source": 58,
+        "target": 75,
+        "type": ""
+      },
+      {
+        "source": 58,
+        "target": 76,
+        "type": ""
+      },
+      {
+        "source": 58,
+        "target": 77,
+        "type": ""
+      },
+      {
+        "source": 58,
+        "target": 78,
+        "type": "jextListeners"
+      },
+      {
+        "source": 58,
+        "target": 79,
+        "type": "jextListeners"
+      },
+      {
+        "source": 57,
+        "target": 98,
+        "type": ""
+      },
+      {
+        "source": 62,
+        "target": 99,
+        "type": "gradientPanel"
+      },
+      {
+        "source": 63,
+        "target": 100,
+        "type": "gradientPanel"
+      },
+      {
+        "source": 64,
+        "target": 101,
+        "type": "gradientPanel"
+      }
+      ,
+      {
+        "source": 66,
+        "target": 102,
+        "type": "historyModel"
+      },
+      {
+        "source": 66,
+        "target": 103,
+        "type": "textArea"
+      }
+      ,
+      {
+        "source": 66,
+        "target": 104,
+        "type": "firstCmd, currentCmd"
+      },
+      {
+        "source": 104,
+        "target": 105,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 105,
+        "type": "currentCmd"
+      },
+      {
+        "source": 105,
+        "target": 106,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 106,
+        "type": "currentCmd"
+      },
+      {
+        "source": 66,
+        "target": 107,
+        "type": "currentCmd"
+      },
+      {
+        "source": 106,
+        "target": 107,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 108,
+        "type": "currentCmd"
+      },
+      {
+        "source": 107,
+        "target": 108,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 109,
+        "type": "currentCmd"
+      },
+      {
+        "source": 108,
+        "target": 109,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 110,
+        "type": "currentCmd"
+      },
+      {
+        "source": 109,
+        "target": 110,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 111,
+        "type": "currentCmd"
+      },
+      {
+        "source": 110,
+        "target": 111,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 112,
+        "type": "currentCmd"
+      },
+      {
+        "source": 111,
+        "target": 112,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 113,
+        "type": "currentCmd"
+      },
+      {
+        "source": 112,
+        "target": 113,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 114,
+        "type": "currentCmd"
+      },
+      {
+        "source": 113,
+        "target": 114,
+        "type": "next"
+      },
+      {
+        "source": 66,
+        "target": 115,
+        "type": "evalCmd, currentCmd"
+      },
+
+      {
+        "source": 114,
+        "target": 115,
+        "type": "next"
+      },
+
+      {
+        "source": 67,
+        "target": 116,
+        "type": "buttonsPanel"
+      }
+
+      ,
+      {
+        "source": 117,
+        "target": 68,
+        "type": "area"
+      }
+      ,
+      {
+        "source": 119,
+        "target": 68,
+        "type": "textArea"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 120,
+        "type": "painter"
+      },
+      {
+        "source": 120,
+        "target": 68,
+        "type": "textArea"
+      }
+      ,{
+        "source": 68,
+        "target": 121,
+        "type": "gutter"
+      }
+      ,
+      {
+        "source": 121,
+        "target": 168,
+        "type": "textArea"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 122,
+        "type": "documentHandler"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 123,
+        "type": "caretEvent"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 124,
+        "type": "document"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 125,
+        "type": "listenerList"
+      }
+      ,
+      {
+        "source": 68,
+        "target": 126,
+        "type": "listenerList"
+      },
+
+      {
+        "source": 68,
+        "target": 68,
+        "type": "focusedComponent"
+      }
+      ,
+      {
+        "source": 71,
+        "target": 127,
+        "type": "_mouseListener"
+      }
+      ,
+      {
+        "source": 72,
+        "target": 129,
+        "type": "currentWorkspace"
+      },
+      {
+        "source": 72,
+        "target": 130,
+        "type": "newWorkspace"
+      },
+      {
+        "source": 72,
+        "target": 131,
+        "type": "removeWorkspace"
+      },
+      {
+        "source": 72,
+        "target": 132,
+        "type": "switchWorkspace"
+      },
+      {
+        "source": 133,
+        "target": 58,
+        "type": "parent"
+      },
+      {
+        "source": 73,
+        "target": 135,
+        "type": "root"
+      },
+      {
+        "source": 73,
+        "target": 136,
+        "type": "openFileM"
+      },
+      {
+        "source": 73,
+        "target": 137,
+        "type": "newFolderM"
+      },
+      {
+        "source": 73,
+        "target": 138,
+        "type": "addFileM"
+      },
+      {
+        "source": 73,
+        "target": 139,
+        "type": "addAllFilesM"
+      },
+      {
+        "source": 73,
+        "target": 140,
+        "type": "deleteM"
+      },
+      {
+        "source": 73,
+        "target": 141,
+        "type": "openFile"
+      },
+      {
+        "source": 73,
+        "target": 142,
+        "type": "newFolder"
+      },
+      {
+        "source": 73,
+        "target": 143,
+        "type": "addFile"
+      },
+      {
+        "source": 73,
+        "target": 144,
+        "type": "addAllFiles"
+      },
+      {
+        "source": 73,
+        "target": 145,
+        "type": "deleteItem"
+      },
+      {
+        "source": 74,
+        "target": 146,
+        "type": "carriageReturn"
+      },
+      {
+        "source": 74,
+        "target": 147,
+        "type": "executeScript"
+      },
+      {
+        "source": 74,
+        "target": 148,
+        "type": "textSurrounding"
+      }
+      ,
+      {
+        "source": 74,
+        "target": 149,
+        "type": "root"
+      }
+      ,
+      {
+        "source": 74,
+        "target": 150,
+        "type": "inserts"
+      }
+      ,
+      {
+        "source": 74,
+        "target": 151,
+        "type": "xtreeObj"
+      },
+      {
+        "source": 74,
+        "target": 152,
+        "type": "collapse"
+      },
+      {
+        "source": 74,
+        "target": 153,
+        "type": "expand"
+      },
+      {
+        "source": 74,
+        "target": 154,
+        "type": "reload"
+      },
+      {
+        "source": 98,
+        "target": 158,
+        "type": "handler"
+      }
+      ,
+      {
+        "source": 103,
+        "target": 159,
+        "type": "_keyListener"
+      },
+      {
+        "source": 116,
+        "target": 160,
+        "type": "_mouseListener"
+      }
+      ,
+      {
+        "source": 118,
+        "target": 161,
+        "type": "theBranch"
+      }
+      ,
+      {
+        "source": 118,
+        "target": 162,
+        "type": "lastToken, firstToken"
+      }
+      ,
+      {
+        "source": 118,
+        "target": 163,
+        "type": "lastToken, firstToken"
+      }
+      ,
+      {
+        "source": 118,
+        "target": 164,
+        "type": "lastToken, firstToken"
+      },
+      {
+        "source": 165,
+        "target": 119,
+        "type": "parent"
+      },
+      {
+        "source": 165,
+        "target": 68,
+        "type": "parent"
+      },
+      {
+        "source": 119,
+        "target": 166,
+        "type": "open"
+      },
+      {
+        "source": 119,
+        "target": 167,
+        "type": "cancel"
+      },
+      {
+        "source": 128,
+        "target": 168,
+        "type": "handler"
+      },
+      {
+        "source": 134,
+        "target": 169,
+        "type": "handler"
+      },
+      {
+        "source": 130,
+        "target": 170,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 131,
+        "target": 171,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 141,
+        "target": 173,
+        "type": "_mouseListener"
+      }
+      ,
+      {
+        "source": 142,
+        "target": 174,
+        "type": "_mouseListener"
+      }
+      ,
+      {
+        "source": 143,
+        "target": 175,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 144,
+        "target": 176,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 145,
+        "target": 177,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 152,
+        "target": 178,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 153,
+        "target": 179,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 154,
+        "target": 180,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 155,
+        "target": 181,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 156,
+        "target": 182,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 157,
+        "target": 183,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 164,
+        "target": 184,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 185,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 186,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 187,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 188,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 189,
+        "type": "options"
+      },
+      {
+        "source": 164,
+        "target": 190,
+        "type": "options"
+      },
+      {
+        "source": 166,
+        "target": 191,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 167,
+        "target": 192,
+        "type": "_mouseListener"
+      },
+      {
+        "source": 181,
+        "target": 193,
+        "type": "mbar"
+      },
+      {
+        "source": 193,
+        "target": 194,
+        "type": "currentMenu, lastMenu"
+      },
+      {
+        "source": 193,
+        "target": 195,
+        "type": "currentMenu, lastMenu"
+      }
+
+    ]
+  }
+  
