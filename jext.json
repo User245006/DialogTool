@@ -653,7 +653,7 @@
       },
       {
         "name": "JextEvent1",
-        "label": [1, 40.42, 100],
+        "label": [1, 40.42, 44.5],
         "position": [0, 0],
         "id": 70,
         "show": "false",
@@ -1564,7 +1564,7 @@
       },
       {
         "name": "WorkspacesHandler1",
-        "label": [1, 0.9, 100],
+        "label": [1, 0.9, 1],
         "position": [0, 0],
         "id": 168,
         "show": "false",
@@ -1573,7 +1573,7 @@
       },
       {
         "name": "VirtualFoldersHandler1",
-        "label": [1, 0.9, 100],
+        "label": [1, 0.9, 1],
         "position": [0, 0],
         "id": 169,
         "show": "false",
@@ -1684,7 +1684,7 @@
       ,
       {
         "name": "XMenuHandler1",
-        "label": [1, 0.7, 100],
+        "label": [1, 0.7, 0.9],
         "position": [0, 0],
         "id": 181,
         "show": "false",
@@ -1693,7 +1693,7 @@
       },
       {
         "name": "XBarHandler1",
-        "label": [1, 0.8, 100],
+        "label": [1, 0.8, 0.9],
         "position": [0, 0],
         "id": 182,
         "show": "false",
@@ -1831,8 +1831,6 @@
         "internalStructure": [],
         "showInternalStructure": "false"
       }
-
-
 
     ],
   
